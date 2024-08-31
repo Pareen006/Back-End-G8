@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22631.3958]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Aaryaman>cd desktop
+
+C:\Users\Aaryaman\Desktop>git clone https://github.com/Pareen006/Back-End-G8.git
+Cloning into 'Back-End-G8'...
+warning: You appear to have cloned an empty repository.
+
+C:\Users\Aaryaman\Desktop>cd Back-End-G8
+
+C:\Users\Aaryaman\Desktop\Back-End-G8>
+C:\Users\Aaryaman\Desktop\Back-End-G8>code .
+
+C:\Users\Aaryaman\Desktop\Back-End-G8>code .
+
+C:\Users\Aaryaman\Desktop\Back-End-G8>
